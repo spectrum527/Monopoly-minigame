@@ -87,3 +87,12 @@ npm audit --audit-level=moderate
 - [生产部署说明](docs/DEPLOYMENT.md)
 
 规则、联机、地图布局与存档有自动回归测试；桌面和手机实际操作的验收记录见上面的验收文档。合入前以当前提交的 CI 结果为准。
+
+## 贡献者
+
+- [Alex Xiao](https://github.com/spectrum527)：项目发起与设计。
+- [OpenAI Codex](https://github.com/codex)：参与代码实现与迭代。
+
+## Vibe coding 声明
+
+本项目采用 Vibe coding 的方式开发。开发过程中，ChatGPT 参与了功能实现与迭代。
